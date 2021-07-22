@@ -1,0 +1,15 @@
+{
+  "name": "adding-typescript",
+  "version": "1.0.0",
+  "description": "Adding typescript to a project",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "http-server": "npx http-server ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
