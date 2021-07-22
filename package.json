@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "tsc": "tsc",
-    "http-server": "npx http-server ./"
+    "tsc:w": "tsc --watch",
+    "http-server": "npx http-server ./ -o"
   },
   "author": "",
   "license": "ISC",
