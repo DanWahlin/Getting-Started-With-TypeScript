@@ -1,0 +1,21 @@
+{
+  "name": "adding-typescript",
+  "version": "1.0.0",
+  "description": "Adding typescript to a project",
+  "scripts": {
+    "webpack": "npx webpack --mode development",
+    "webpack:w": "npx webpack --mode development --watch",
+    "start": "npx webpack serve --mode development --open"
+  },
+  "author": "",
+  "private": true,
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "ts-loader": "^9.2.3",
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2",
+    "html-webpack-plugin": "^5.3.2"
+  }
+}
