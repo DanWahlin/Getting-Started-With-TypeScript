@@ -2,6 +2,10 @@
 
 Simple examples to get you started using TypeScript, compiling it, bundling it, and more.
 
+## Requirements
+
+Node.js 14 or higher ([https://nodejs.org](https://nodejs.org))
+
 ## Running a Project
 
 1. Clone this repository or download the .zip and extract it if you prefer.
