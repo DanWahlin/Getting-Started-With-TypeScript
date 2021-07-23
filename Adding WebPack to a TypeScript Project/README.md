@@ -11,7 +11,7 @@ This example shows how webpack can be use to compile TypeScript, generate bundle
 
 **NOTE:**
 
-Running `npm start` compiles your TypeScript and loads the JavaScript bundle into memory (you won't see a `dist`created in this case). 
+Running `npm start` compiles your TypeScript and loads the JavaScript bundle into memory (you won't see a `dist` folder created in this case). 
 If you want to compile your TypeScript and create a bundle in the `dist` folder you can run `npm run webpack` or 
 `npm run webpack:w` (if you want webpack to watch for changes to files). 
 
