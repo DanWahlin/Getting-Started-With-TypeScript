@@ -26,9 +26,9 @@ module.exports = {
       inject: 'body'
     }),
   ],
-  devServer: {
-    contentBase: './dist',
-    compress: true,
-    port: 9000,
-  },
+  // devServer: {
+  //   contentBase: './dist',
+  //   compress: true,
+  //   port: 9000,
+  // },
 };
