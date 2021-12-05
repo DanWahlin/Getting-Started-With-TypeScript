@@ -25,10 +25,5 @@ module.exports = {
       template: './index.html',
       inject: 'body'
     }),
-  ],
-  // devServer: {
-  //   contentBase: './dist',
-  //   compress: true,
-  //   port: 9000,
-  // },
+  ]
 };
